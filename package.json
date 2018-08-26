@@ -1,7 +1,7 @@
 {
   "name": "doel",
   "version": "0.1.0",
-  "homepage": "http://adoel90.github.io/adoel",
+  "homepage": "http://adoel90.github.io/doel",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
